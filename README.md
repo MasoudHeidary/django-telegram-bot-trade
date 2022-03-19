@@ -1,5 +1,6 @@
 # django-telegram-bot-trade
-An advance telegram bot with full control and features
+An advance telegram bot with full control and features <br/>
+This repository was private thereby, readme file didn't completed!
 
 <h2>Config</h2>
 <code>Bot/credentials.py</code> <br/>
